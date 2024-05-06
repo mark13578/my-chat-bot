@@ -59,3 +59,14 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](htt
 - [Channels and Bot Connector Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0)
 - [Restify](https://www.npmjs.com/package/restify)
 - [dotenv](https://www.npmjs.com/package/dotenv)
+
+## 筆記
+
+- 待新增項目：
+
+1. 資料蒐集聲明（是否同意）
+2. 公司名稱
+3. 聯絡人姓名
+4. 職稱
+5. 公司電話含分機
+6. 公司Mail
